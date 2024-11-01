@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* Counter Component */}
       <div className="text-center">
-        <h1>Welcome to My NextJS Counter Project</h1>
+        <h1>Welcome to Carter Bartz's NextJS Counter Project</h1>
         <Counter />
       </div>
     </div>
